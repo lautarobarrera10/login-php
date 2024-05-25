@@ -1,0 +1,17 @@
+{
+    "name": "lauta/login-php",
+    "autoload": {
+        "psr-4": {
+            "Lauta\\LoginPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lautaro Barrera",
+            "email": "lautarobarrera12@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
